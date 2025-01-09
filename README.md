@@ -4,7 +4,7 @@
 [You can play the WebGL version here!](https://raducot.github.io/MageRageUnity/)
 (Please note that the shaders on WebGL don't work as expected, for a reference of the Windows release look, check the  [screenshots](#Screenshots).)
 
-MageRage is an arcade endless survival top-down shooter developed as part of a bachelor's project.
+MageRage is an arcade endless survival top-down shooter developed as part of my bachelor's project.
 It combines fast-paced combat with strategic decision-making, offering a unique gaming experience with voxel-style minimalist graphics.
 
 # Features
