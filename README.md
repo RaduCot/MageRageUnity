@@ -13,15 +13,15 @@ It combines fast-paced combat with strategic decision-making, offering a unique 
 - **Strategic Sacrifices**: Trade character attributes for buffs in a dynamic risk-reward system;
 - **Voxel Art Style**: Minimalist 3D graphics with visually appealing effects;
 - **Custom Mechanics**:
--- Predictive enemy targeting and evasive actions;
--- Intense combat with critical hits, lifesteal mechanics, and dodge abilities;
+  - Predictive enemy targeting and evasive actions;
+  - Intense combat with critical hits, lifesteal mechanics, and dodge abilities;
 - **Dynamic Visuals**: Shader-based effects, moving foliage, and a richly detailed environment.
 
 # Gameplay
 
 - Control your character in a circular arena filled with ghostly enemies;
 - Use movement precision and attack timing to survive as long as possible;
-- Progress through rounds by defeating waves of enemies, gaining rewards, and sacrificing attributes for upgrades;
+- Progress through rounds by defeating waves of enemies and sacrificing attributes for upgrades;
 - Compete for high scores in an infinite, challenging loop;
 
 # Technologies Used
