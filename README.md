@@ -2,7 +2,7 @@
 ## _Endless Survival Game in Third Person_
 
 [You can play the WebGL version here!](https://raducot.github.io/MageRageUnity/)
-(F11 for fullscreen)
+(Hardware acceleration on GPU is recommended! F11 for fullscreen)
 
 MageRage is an arcade endless survival top-down shooter developed as part of my bachelor's project.
 It combines fast-paced combat with strategic decision-making, offering a unique gaming experience with voxel-style minimalist graphics.
