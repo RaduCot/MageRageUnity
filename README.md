@@ -15,28 +15,28 @@ It combines fast-paced combat with strategic decision-making, offering a unique 
 **Custom Mechanics**:
 - Predictive enemy targeting and evasive actions;
 - Intense combat with critical hits, lifesteal mechanics, and dodge abilities;
-**Dynamic Visuals**: Shader-based effects, moving foliage, and a richly detailed environment.\
+**Dynamic Visuals**: Shader-based effects, moving foliage, and a richly detailed environment.
 
 # Gameplay
 
 Control your character in a circular arena filled with ghostly enemies;\
 Use movement precision and attack timing to survive as long as possible;\
 Progress through rounds by defeating waves of enemies and sacrificing attributes for upgrades;\
-Compete for high scores in an infinite, challenging loop;\
+Compete for high scores in an infinite, challenging loop;
 
 # Technologies Used
 **Engine**: Unity\
 **Programming Language**: C#\
 **Modeling and Graphics**: Blockbench, Blender\
 **Sound and Music**: FL Studio\
-**Custom Effects**: Unity's Shader Graph and Universal Render Pipeline\
+**Custom Effects**: Unity's Shader Graph and Universal Render Pipeline
 
 # How to Play
 Launch the game and select your initial attribute modifications.\
 Use WASD for movement and your mouse for aiming.\
 Avoid incoming attacks using the dodge ability (Spacebar) and defeat enemies with fireball projectiles (Left Click).\
 After each wave, select a modifier to enhance your skills or attributes.\
-Aim for the highest possible score while managing your health and abilities.\
+Aim for the highest possible score while managing your health and abilities.
 
 # Screenshots
 ![cursor](https://github.com/RaduCot/MageRageUnity/blob/main/gitimages/cursor.png?raw=true)
